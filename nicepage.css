@@ -31392,7 +31392,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: -80px;
+    width: 91px;
+    height: 91px;
+    margin-top: -67px;
     margin-right: 0;
     margin-bottom: 7px;
   }
@@ -31405,7 +31407,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 68px;
     height: 68px;
-    margin-top: -140px;
+    margin-top: -159px;
     margin-bottom: 60px;
   }
 }
